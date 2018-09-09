@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Decomplie" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/lib/jvm/java-8-oracle/bin/javap" />
+      <option name="PARAMETERS" value="$FileClass$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/javap" />
+    </exec>
+  </tool>
+</toolSet>

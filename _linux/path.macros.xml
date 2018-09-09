@@ -1,0 +1,6 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="MAVEN_REPOSITORY" value="/home/coditas/.m2/repository" />
+    <macro name="KOTLIN_BUNDLED" value="/home/coditas/Downloads/ideaIC-2018.2.1/idea-IC-182.3911.36/plugins/Kotlin/kotlinc" />
+  </component>
+</application>
