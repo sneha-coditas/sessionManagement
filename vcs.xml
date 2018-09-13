@@ -64,6 +64,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$" />
+    <option name="cloneParentDir" value="$USER_HOME$/ZMRIS-507" />
   </component>
 </application>
