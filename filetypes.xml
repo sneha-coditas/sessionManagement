@@ -14,6 +14,7 @@
       <mapping pattern="V4_1__alter_DocmentBankTag.sql" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="8" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
