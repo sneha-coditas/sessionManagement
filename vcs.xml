@@ -82,6 +82,10 @@
           <option name="url" value="git@redmine.loginextsolutions.com:dahlia_support/indomaret.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@redmine.loginextsolutions.com:dahlia_support/bukalapakLPServcies.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$" />

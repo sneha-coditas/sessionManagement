@@ -14,6 +14,11 @@
           <option name="path" value="$USER_HOME$/TRIBY_TOMCAT/apache-tomcat-9.0.10" />
           <option name="version" value="9.0.10.0" />
         </TomcatInfo>
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 8.5.32" />
+          <option name="path" value="$USER_HOME$/Downloads/apache-tomcat-8.5.32" />
+          <option name="version" value="8.5.32.0" />
+        </TomcatInfo>
       </list>
     </option>
   </component>
