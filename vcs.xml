@@ -114,6 +114,10 @@
           <option name="url" value="https://gitlab.com/upl_dahlia_tech/upl_uniweed_admin_console_frontend" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/upl_dahlia_tech/UPL_UNIWEED_BACKEND_ADMIN_CONSOLE" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$" />
